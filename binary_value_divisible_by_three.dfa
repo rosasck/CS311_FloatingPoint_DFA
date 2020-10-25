@@ -1,0 +1,22 @@
+2
+3
+1
+
+       0  1 
+
+0      0  1
+1      2  0
+2      1  2
+     
+0
+ 
+
+Number_of_elements in the alphabet
+Number_of_states
+Number_of_accept_states
+The transition table
+The list of accept states
+It is understood that the states are 0,1,2, ... (Number_of_states - 1)
+and that the start state is state 0.
+
+A binary string whose value is divisible by three.
